@@ -43,4 +43,5 @@ pipeline {
         }
     }
 }
+}
 return this;
